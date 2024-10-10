@@ -20,14 +20,11 @@ AE01 es una aplicación Java con interfaz gráfica que permite buscar y reemplaz
 ## Interfaz Gráfica 
 ![miniaturaytaccesoadatos](https://github.com/user-attachments/assets/6f5b02cf-5f12-42f8-8a2c-5d8e6284d257)
 
-## Interfaz Gráfica 
-[![m](https://youtu.be/GPSwS5iDQg4)
+## Link Video YT  
+https://youtu.be/GPSwS5iDQg4
 
 ## Instalación
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tuusuario/AE01.git
-
-Link Video YT 
-https://youtu.be/GPSwS5iDQg4
