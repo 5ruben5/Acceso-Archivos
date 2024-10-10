@@ -2,7 +2,7 @@
 
 AE01 es una aplicación Java con interfaz gráfica que permite buscar y reemplazar texto en archivos dentro de un directorio especificado. Es especialmente útil para tareas de edición en masa, como la modificación de documentos o la búsqueda de términos en grandes cantidades de archivos.
 
-![Interfaz de usuario de AE01](ruta/a/tu/imagen.png) <!-- Reemplaza con la ruta de la imagen -->
+![Interfaz de usuario de AE01](Descargas/miniaturaytaccesoadatos.png) <!-- Reemplaza con la ruta de la imagen -->
 
 ## Características
 
